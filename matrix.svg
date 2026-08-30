@@ -1,0 +1,172 @@
+```svg
+<svg width="1200" height="320" viewBox="0 0 1200 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .rain {
+        font-family: monospace;
+        font-size: 18px;
+        fill: #00ff66;
+        opacity: 0.55;
+      }
+
+      .name {
+        font-family: monospace;
+        font-size: 72px;
+        font-weight: bold;
+        letter-spacing: 14px;
+        fill: #00ff66;
+        filter: url(#glow);
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="#000000"/>
+
+  <g class="rain">
+
+    <text x="40" y="-120">
+      無
+      <animate attributeName="y"
+               from="-120" to="500"
+               dur="4s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="100" y="-220">
+      道 生 一 二 三
+      <animate attributeName="y"
+               from="-220" to="500"
+               dur="6s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="170" y="-80">
+      夢 夜 光 影
+      <animate attributeName="y"
+               from="-80" to="500"
+               dur="5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="240" y="-300">
+      零 壱 弐 参
+      <animate attributeName="y"
+               from="-300" to="500"
+               dur="7s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="320" y="-180">
+      黒 闇 月 夜
+      <animate attributeName="y"
+               from="-180" to="500"
+               dur="4.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="400" y="-250">
+      人 工 知 能
+      <animate attributeName="y"
+               from="-250" to="500"
+               dur="6.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="480" y="-110">
+      情 報 電 脳
+      <animate attributeName="y"
+               from="-110" to="500"
+               dur="5.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="560" y="-320">
+      影 忍 夜 雨
+      <animate attributeName="y"
+               from="-320" to="500"
+               dur="7.5s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="640" y="-150">
+      真 実 未 知
+      <animate attributeName="y"
+               from="-150" to="500"
+               dur="4.8s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="720" y="-280">
+      天 地 玄 黄
+      <animate attributeName="y"
+               from="-280" to="500"
+               dur="6.8s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="800" y="-100">
+      風 林 火 山
+      <animate attributeName="y"
+               from="-100" to="500"
+               dur="5.2s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="880" y="-240">
+      生 死 無 常
+      <animate attributeName="y"
+               from="-240" to="500"
+               dur="7.2s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="960" y="-160">
+      月 夜 電 光
+      <animate attributeName="y"
+               from="-160" to="500"
+               dur="4.3s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="1040" y="-290">
+      暗 闇 未 来
+      <animate attributeName="y"
+               from="-290" to="500"
+               dur="6.3s"
+               repeatCount="indefinite"/>
+    </text>
+
+    <text x="1120" y="-120">
+      零 壱 零 壱
+      <animate attributeName="y"
+               from="-120" to="500"
+               dur="5.7s"
+               repeatCount="indefinite"/>
+    </text>
+
+  </g>
+
+  <rect x="280" y="105"
+        width="640" height="110"
+        fill="#000"
+        opacity="0.82"/>
+
+  <text x="600"
+        y="180"
+        text-anchor="middle"
+        class="name">
+    SEERPRIME
+  </text>
+
+</svg>
+```
