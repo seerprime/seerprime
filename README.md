@@ -1,21 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=160&color=0:02040a,40:06162b,100:00a2ff&text=SEERPRIME&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=SHOURYA%20BHARDWAJ&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=17&duration=2800&pause=900&color=00A2FF&center=true&vCenter=true&width=700&lines=NO+SPOTLIGHT+%2F%2F+ONLY+SIGNAL;OPERATING+AFTER+DARK;PRECISION+%E2%80%A2+CONTROL+%E2%80%A2+SHADOW;SEERPRIME" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=YOU+CANNOT+HIDE.)
 
-<br><br>
+<br/>
 
-```txt
-┌──────────────────────────────────────────────┐
-│                                              │
-│                 S E E R P R I M E            │
-│                                              │
-│    STATUS   :: ONLINE                        │
-│    MODE     :: NIGHT OPERATION               │
-│    ACCESS   :: RESTRICTED                    │
-│    SIGNAL   :: ENCRYPTED                     │
-│                                              │
-└──────────────────────────────────────────────┘
+```
+██████╗ ███████╗██████╗     ██╗  ██╗ ██████╗  ██████╗ ██████╗ 
+██╔══██╗██╔════╝██╔══██╗    ██║  ██║██╔═══██╗██╔═══██╗██╔══██╗
+██████╔╝█████╗  ██║  ██║    ███████║██║   ██║██║   ██║██║  ██║
+██╔══██╗██╔══╝  ██║  ██║    ██╔══██║██║   ██║██║   ██║██║  ██║
+██║  ██║███████╗██████╔╝    ██║  ██║╚██████╔╝╚██████╔╝██████╔╝
+╚═╝  ╚═╝╚══════╝╚═════╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝ 
+```
+
+<img src="https://img.shields.io/badge/-SHOURYA%20BHARDWAJ-000000?style=for-the-badge&labelColor=8B0000" />
+
+<br/><br/>
+
+> ### **YOU CANNOT HIDE.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer" width="100%"/>
+
+</div>
