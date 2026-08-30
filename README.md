@@ -1,7 +1,7 @@
 <div align="center">
 
-![seerprime](matrix.svg)
+![matrix](matrix.svg)
 
-### some things are better left undocumented.
+some things are better left undocumented.
 
 </div>
