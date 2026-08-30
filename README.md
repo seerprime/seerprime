@@ -1,9 +1,9 @@
+```md
 <div align="center">
 
-<img src="./matrix.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/seerprime/seerprime/main/matrix.svg" width="100%">
 
-<br>
-
-<i>some things are better left undocumented.</i>
+### some things are better left undocumented.
 
 </div>
+```
