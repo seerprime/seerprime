@@ -1,167 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <rect width="1200" height="320" fill="#020202"/>
 
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  width="1200"
-  height="320"
-  viewBox="0 0 1200 320">
+  <defs>
+    <style>
+      .rain {
+        font-family: monospace;
+        font-size: 20px;
+        fill: #00ff66;
+        opacity: 0.75;
+      }
+      .dim {
+        opacity: 0.45;
+      }
+      .bright {
+        fill: #b6ffcb;
+        opacity: 0.95;
+      }
+    </style>
+  </defs>
 
-  <rect width="1200" height="320" fill="#050505"/>
+  <g class="rain">
+    <text x="40" y="-220">ｱ<tspan x="40" dy="22">7</tspan><tspan x="40" dy="22">ﾈ</tspan><tspan x="40" dy="22">0</tspan><tspan x="40" dy="22">ﾑ</tspan><tspan x="40" dy="22">4</tspan><tspan x="40" dy="22">ﾚ</tspan><tspan x="40" dy="22">1</tspan><tspan x="40" dy="22">ﾂ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 680" dur="2.0s" repeatCount="indefinite"/></text>
 
-  <g
-    font-family="monospace"
-    font-size="18"
-    fill="#00ff66"
-    opacity="0.65">
+    <text x="110" y="-300" class="dim">0<tspan x="110" dy="22">1</tspan><tspan x="110" dy="22">ﾗ</tspan><tspan x="110" dy="22">8</tspan><tspan x="110" dy="22">ｷ</tspan><tspan x="110" dy="22">2</tspan><tspan x="110" dy="22">ﾓ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 760" dur="2.6s" repeatCount="indefinite"/></text>
 
-    <text x="70" y="-150">
-      ア<tspan x="70" dy="24">1</tspan>
-      <tspan x="70" dy="24">キ</tspan>
-      <tspan x="70" dy="24">0</tspan>
-      <tspan x="70" dy="24">ネ</tspan>
-      <tspan x="70" dy="24">7</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 600"
-        dur="4s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="180" y="-180">電<tspan x="180" dy="22">9</tspan><tspan x="180" dy="22">影</tspan><tspan x="180" dy="22">3</tspan><tspan x="180" dy="22">無</tspan><tspan x="180" dy="22">7</tspan><tspan x="180" dy="22">夜</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 650" dur="2.2s" repeatCount="indefinite"/></text>
 
-    <text x="160" y="-240">
-      0<tspan x="160" dy="24">サ</tspan>
-      <tspan x="160" dy="24">9</tspan>
-      <tspan x="160" dy="24">メ</tspan>
-      <tspan x="160" dy="24">1</tspan>
-      <tspan x="160" dy="24">ツ</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 700"
-        dur="6s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="250" y="-260" class="dim">ﾎ<tspan x="250" dy="22">1</tspan><tspan x="250" dy="22">0</tspan><tspan x="250" dy="22">ﾙ</tspan><tspan x="250" dy="22">5</tspan><tspan x="250" dy="22">ﾜ</tspan><tspan x="250" dy="22">8</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 730" dur="3.0s" repeatCount="indefinite"/></text>
 
-    <text x="260" y="-100">
-      シ<tspan x="260" dy="24">4</tspan>
-      <tspan x="260" dy="24">ロ</tspan>
-      <tspan x="260" dy="24">8</tspan>
-      <tspan x="260" dy="24">ナ</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 600"
-        dur="5s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="320" y="-120" class="bright">1<tspan x="320" dy="22">ﾒ</tspan><tspan x="320" dy="22">4</tspan><tspan x="320" dy="22">ﾅ</tspan><tspan x="320" dy="22">0</tspan><tspan x="320" dy="22">ﾖ</tspan><tspan x="320" dy="22">6</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 620" dur="1.9s" repeatCount="indefinite"/></text>
 
-    <text x="360" y="-280">
-      3<tspan x="360" dy="24">ホ</tspan>
-      <tspan x="360" dy="24">0</tspan>
-      <tspan x="360" dy="24">ム</tspan>
-      <tspan x="360" dy="24">6</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 750"
-        dur="7s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="390" y="-310">黒<tspan x="390" dy="22">2</tspan><tspan x="390" dy="22">光</tspan><tspan x="390" dy="22">7</tspan><tspan x="390" dy="22">零</tspan><tspan x="390" dy="22">1</tspan><tspan x="390" dy="22">深</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 770" dur="2.8s" repeatCount="indefinite"/></text>
 
-    <text x="470" y="-130">
-      カ<tspan x="470" dy="24">1</tspan>
-      <tspan x="470" dy="24">セ</tspan>
-      <tspan x="470" dy="24">5</tspan>
-      <tspan x="470" dy="24">ン</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 650"
-        dur="4.5s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="470" y="-210" class="dim">5<tspan x="470" dy="22">ｼ</tspan><tspan x="470" dy="22">8</tspan><tspan x="470" dy="22">ｱ</tspan><tspan x="470" dy="22">3</tspan><tspan x="470" dy="22">ﾀ</tspan><tspan x="470" dy="22">9</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 700" dur="2.4s" repeatCount="indefinite"/></text>
 
-    <text x="730" y="-230">
-      8<tspan x="730" dy="24">ラ</tspan>
-      <tspan x="730" dy="24">0</tspan>
-      <tspan x="730" dy="24">ミ</tspan>
-      <tspan x="730" dy="24">2</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 700"
-        dur="6.5s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="550" y="-280">天<tspan x="550" dy="22">1</tspan><tspan x="550" dy="22">機</tspan><tspan x="550" dy="22">0</tspan><tspan x="550" dy="22">人</tspan><tspan x="550" dy="22">8</tspan><tspan x="550" dy="22">界</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 760" dur="2.7s" repeatCount="indefinite"/></text>
 
-    <text x="840" y="-90">
-      ト<tspan x="840" dy="24">7</tspan>
-      <tspan x="840" dy="24">ア</tspan>
-      <tspan x="840" dy="24">1</tspan>
-      <tspan x="840" dy="24">ク</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 600"
-        dur="4.8s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="630" y="-140" class="bright">0<tspan x="630" dy="22">1</tspan><tspan x="630" dy="22">0</tspan><tspan x="630" dy="22">1</tspan><tspan x="630" dy="22">1</tspan><tspan x="630" dy="22">0</tspan><tspan x="630" dy="22">1</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 640" dur="1.8s" repeatCount="indefinite"/></text>
 
-    <text x="950" y="-300">
-      5<tspan x="950" dy="24">ヨ</tspan>
-      <tspan x="950" dy="24">0</tspan>
-      <tspan x="950" dy="24">ナ</tspan>
-      <tspan x="950" dy="24">9</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 760"
-        dur="7.2s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="710" y="-320" class="dim">雨<tspan x="710" dy="22">4</tspan><tspan x="710" dy="22">闇</tspan><tspan x="710" dy="22">7</tspan><tspan x="710" dy="22">幻</tspan><tspan x="710" dy="22">2</tspan><tspan x="710" dy="22">道</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 790" dur="3.1s" repeatCount="indefinite"/></text>
 
-    <text x="1060" y="-170">
-      マ<tspan x="1060" dy="24">3</tspan>
-      <tspan x="1060" dy="24">シ</tspan>
-      <tspan x="1060" dy="24">1</tspan>
-      <tspan x="1060" dy="24">ン</tspan>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="0 0"
-        to="0 680"
-        dur="5.5s"
-        repeatCount="indefinite"/>
-    </text>
+    <text x="790" y="-190">ﾂ<tspan x="790" dy="22">6</tspan><tspan x="790" dy="22">ﾊ</tspan><tspan x="790" dy="22">0</tspan><tspan x="790" dy="22">ﾘ</tspan><tspan x="790" dy="22">5</tspan><tspan x="790" dy="22">ﾌ</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 690" dur="2.1s" repeatCount="indefinite"/></text>
 
+    <text x="870" y="-260" class="dim">虚<tspan x="870" dy="22">1</tspan><tspan x="870" dy="22">像</tspan><tspan x="870" dy="22">8</tspan><tspan x="870" dy="22">波</tspan><tspan x="870" dy="22">0</tspan><tspan x="870" dy="22">心</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 740" dur="2.9s" repeatCount="indefinite"/></text>
+
+    <text x="950" y="-130" class="bright">9<tspan x="950" dy="22">ﾛ</tspan><tspan x="950" dy="22">2</tspan><tspan x="950" dy="22">ﾆ</tspan><tspan x="950" dy="22">7</tspan><tspan x="950" dy="22">ｶ</tspan><tspan x="950" dy="22">1</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 650" dur="2.0s" repeatCount="indefinite"/></text>
+
+    <text x="1030" y="-300">月<tspan x="1030" dy="22">3</tspan><tspan x="1030" dy="22">影</tspan><tspan x="1030" dy="22">6</tspan><tspan x="1030" dy="22">電</tspan><tspan x="1030" dy="22">0</tspan><tspan x="1030" dy="22">網</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 780" dur="3.2s" repeatCount="indefinite"/></text>
+
+    <text x="1110" y="-170" class="dim">1<tspan x="1110" dy="22">0</tspan><tspan x="1110" dy="22">1</tspan><tspan x="1110" dy="22">0</tspan><tspan x="1110" dy="22">1</tspan><tspan x="1110" dy="22">0</tspan><tspan x="1110" dy="22">1</tspan><animateTransform attributeName="transform" type="translate" from="0 0" to="0 670" dur="2.3s" repeatCount="indefinite"/></text>
   </g>
-
-  <rect
-    x="380"
-    y="115"
-    width="440"
-    height="90"
-    rx="8"
-    fill="#050505"
-    opacity="0.9"/>
-
-  <text
-    x="600"
-    y="175"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="52"
-    font-weight="700"
-    letter-spacing="10"
-    fill="#00ff66">
-    seerprime
-  </text>
-
 </svg>
